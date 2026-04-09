@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "Creator": {
+      "version": "1.0.0",
+      "installedAt": 1773306248913
+    },
+    "document-pro": {
+      "version": "1.0.0",
+      "installedAt": 1773307573468
+    },
+    "frontend": {
+      "version": "1.0.2",
+      "installedAt": 1773308604896
+    }
+  }
+}
